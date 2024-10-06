@@ -62,7 +62,7 @@ Step by step guide for the Der Eisendrache Easter Egg in Black Ops 3
 
 
 ## Wolf Bow Quest:
-- Hit all paintings around the map in this order (Locations: Clock Tower, Room under Clock Tower, Church up stairs to the right, and Living Quarters Connector to Power.)
+- Hit all paintings around the map in this order. [Thone, Arrows, Knight, Mountain](https://i.psnprofiles.com/guides/7401/2ee815.png) (Locations: Clock Tower, Room under Clock Tower, Church up stairs to the right, and Living Quarters Connector to Power.)
 - Retrieve bow from wall in Pyramid room. (In front of Knight room and pyramid room archway.)
 - Go to Rocket Pad.
 - Shoot red flag on mountain above the Rocket Pad Tunnel.
